@@ -149,8 +149,8 @@ This will silently monitor your system and only log warnings and alerts.
 **Ihor Bezruchko**
 Junior IT Support | Cybersecurity Enthusiast | Luxembourg
 
-- LinkedIn: [linkedin.com/in/ihorbezruchko](https://linkedin.com/in/ihorbezruchko)
-- GitHub: [github.com/ihorbezruchko](https://github.com/ihorbezruchko)
+- LinkedIn: [linkedin.com/in/ihorbezruchko](https://www.linkedin.com/in/ihor-bezruchko-31637a2b7/)
+
 
 ---
 
